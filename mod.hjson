@@ -1,7 +1,7 @@
-name: "v2logic"
-displayName: "Video to Logic"
-author: "ElectricGun"
-description: "[red[]]THIS MOD HAS NO GUI\nPLEASE READ THE MOD'S GITHUB PAGE FOR THE TUTORIAL ON HOW TO USE THIS \n\nREQUIRES: electricgun/message-block-commands \n\n [white]This mod allows for the creation of vanilla logic gif schematics"
+name: "v2logic_Id"
+displayName: "Video ke Logika"
+author: "mimitvripple"
+description: "[red[]]MOD INI TIDAK MEMILIKI GUI\nHARAP BACA HALAMAN GITHUB MOD UNTUK TUTORIAL CARA MENGGUNAKAN INI \n\nMEMERLUKAN: electricgun/message-block-commands \n\n [white]Mod ini memungkinkan pembuatan skema gif logika vanilla"
 dependencies: ["message-block-commands"]
 version: "1.07"
 repo: "electricgun/video-to-logic"
